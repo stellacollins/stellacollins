@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hello, I’m <strong>Stella Collins</strong></h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Harvard%20University-Online%20Faculty-blue?style=for-the-badge&logo=harvard-university" alt="Harvard Faculty Badge" />
+  <img src="https://img.shields.io/badge/University%20of%20Minnesota%20Twin%20Cities-Online%20Faculty-maroon?style=for-the-badge&logo=university-of-minnesota-twin-cities" alt="UMN Faculty Badge" />
   <img src="https://img.shields.io/badge/Asia%20Pacific-Technical%20Support-blueviolet?style=for-the-badge&logo=visualstudiocode" alt="APAC Support Badge" />
   <img src="https://img.shields.io/badge/Remote-Work-Fully%20Remote-green?style=for-the-badge&logo=github" alt="Remote Work Badge" />
 </p>
@@ -20,7 +20,7 @@
 
 - **Full Name:** Stella Collins  
 - **Role:** Faculty Member & Technical Support Specialist  
-- **Scope:** Supporting Harvard University’s Asia Pacific student community  
+- **Scope:** Supporting University of Minnesota Twin Cities’ Asia Pacific student community  
 - **Location:** 🏡 Fully Remote
 
 > "Making complex technology approachable—one student at a time!"
@@ -40,7 +40,7 @@
 ## 📬 Let’s Connect
 
 <p align="center">
-  <a href="mailto:stella.collins@harvard.edu"><img src="https://img.shields.io/badge/Email-stella.collins%40harvard.edu-red?style=for-the-badge&logo=gmail" alt="Email Badge" /></a>
+  <a href="mailto:stella.collins@umn.edu"><img src="https://img.shields.io/badge/Email-stella.collins%40umn.edu-red?style=for-the-badge&logo=gmail" alt="Email Badge" /></a>
   <a href="https://linkedin.com/in/stellacollins"><img src="https://img.shields.io/badge/LinkedIn-Stella%20Collins-blue?style=for-the-badge&logo=LinkedIn" alt="LinkedIn Badge" /></a>
   <a href="https://twitter.com/StellaSupportsAPAC"><img src="https://img.shields.io/badge/Twitter-%40StellaSupportsAPAC-lightblue?style=for-the-badge&logo=twitter" alt="Twitter Badge" /></a>
 </p>
